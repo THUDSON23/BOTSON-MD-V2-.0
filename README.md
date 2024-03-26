@@ -16,7 +16,7 @@
   <a aria-label="Mcross_Md is free to use" href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
-  <a aria-label="Mcross_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+  <a aria-label="Botson_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
     <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -38,7 +38,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><Mcross-Md</b></a> Support Deploy On...
+  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><Botson-Md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -113,4 +113,4 @@ The Botson_Md is made available under the [GPL-3 license](https://github.com/Suh
 - *Botson_Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Botson-Md at your own risk by keeping this warning in mind so make una no go blame me (ʜᴜᴅꜱᴏɴ˚☻).*
-- [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Suhail-Md)
+- [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/THUDSON23/BOTSON-MD-V2-.0)
